@@ -7,3 +7,5 @@ Actualmente empresario
 Tengo 42 años, 
 
 Mi primer trabajo
+
+He logrado crear el repositorio en git hub 
